@@ -1,0 +1,24 @@
+{
+  "name": "is-xlsx",
+  "version": "0.0.1",
+  "description": "Detect xlsx file type from buffer",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overra/is-xlsx.git"
+  },
+  "keywords": [
+    "detect",
+    "xlsx",
+    "filetype"
+  ],
+  "author": "Adam Snodgrass <overra@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overra/is-xlsx/issues"
+  },
+  "homepage": "https://github.com/overra/is-xlsx#readme"
+}
