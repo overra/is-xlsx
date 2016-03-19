@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/overra/is-xlsx/issues"
   },
-  "homepage": "https://github.com/overra/is-xlsx#readme"
+  "homepage": "https://github.com/overra/is-xlsx#readme",
+  "dependencies": {
+    "ooxml-type": "0.0.1"
+  }
 }
