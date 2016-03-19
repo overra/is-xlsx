@@ -1,6 +1,6 @@
 {
   "name": "is-xlsx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Detect xlsx file type from buffer",
   "main": "index.js",
   "files": [
